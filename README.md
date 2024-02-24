@@ -1,2 +1,1 @@
-# Sales-Data-Anlysis
-Sales Data Dashboard 
+# Sales-Data-Dashboard 
